@@ -1,0 +1,1085 @@
+[
+    {
+        "id": 1,
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "name": "Math",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "name": "Biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The Kreb Cycles occurs in the",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rough ER",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cystol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "How many oxygen molecules can hemoglobin hold",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The cones see ___ while the rods see ___",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "black and white; color",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "color; black and white",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3D objects; 2D shapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2D shapes; 3D objects",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the composition of table salt",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8YY1soRcD8atHOkCnm-UhxPW__2b4Aj9X_Q&s",
+        "name": "History",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who was the first President of Ukraine?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Thomas Jefferson", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Leonid kravchuk", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Viktor Yushcenko", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Petro  Poroshenko", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 2,
+                "text": "In which year did World War II end?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "1943", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "1945", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "1950", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "1939", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The ancient city of Rome was built on how many hills?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "5", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "7", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "10", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "3", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Who discovered America in 1492?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Ferdinand Magellan", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Christopher Columbus", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Vasco da Gama", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Marco Polo", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 5,
+                "text": "The Magna Carta was signed in which year?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "1066", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "1215", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "1492", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "1776", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Who was the first man to walk on the moon?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Buzz Aldrin", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Neil Armstrong", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Yuri Gagarin", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Michael Collins", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 7,
+                "text": "The Battle of Hastings was fought in which year?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "1066", "isCorrect": true},
+                    {"id": 2, "label": "B", "text": "1215", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "1415", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "800", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Who was the last pharaoh of Egypt?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Tutankhamun", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Cleopatra VII", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Ramesses II", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Akhenaten", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 9,
+                "text": "The Hundred Years' War was fought between which two countries?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "England and Spain", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "England and France", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "France and Spain", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "England and Scotland", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Who wrote 'The Communist Manifesto'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Vladimir Lenin", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Karl Marx and Friedrich Engels", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Leon Trotsky", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Joseph Stalin", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 11,
+                "text": "The Renaissance began in which country?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "France", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Italy", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Spain", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "England", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 12,
+                "text": "Who was the first female Prime Minister of the United Kingdom?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Theresa May", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Margaret Thatcher", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Angela Merkel", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Queen Elizabeth II", "isCorrect": false}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://images.pexels.com/photos/41949/earth-earth-at-night-night-lights-41949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "name": "Geography",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the capital of Australia?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Sydney", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Canberra", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Melbourne", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Perth", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which is the longest river in the world?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Amazon River", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Nile River", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Yangtze River", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Mississippi River", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the largest desert in the world?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Sahara Desert", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Antarctic Polar Desert", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Arabian Desert", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Gobi Desert", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Mount Everest is located in which mountain range?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Andes", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Himalayas", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Rocky Mountains", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Alps", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Which country is known as the Land of the Rising Sun?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "China", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Japan", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "South Korea", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Thailand", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 6,
+                "text": "What is the smallest country in the world?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Monaco", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Vatican City", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "San Marino", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Liechtenstein", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 7,
+                "text": "The Great Barrier Reef is located off the coast of which country?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Australia", "isCorrect": true},
+                    {"id": 2, "label": "B", "text": "Brazil", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "India", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "South Africa", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 8,
+                "text": "What is the capital of Canada?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Toronto", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Ottawa", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Vancouver", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Montreal", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Which is the only continent to lie in all four hemispheres?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Asia", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Africa", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Australia", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "South America", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 10,
+                "text": "What is the largest lake in Africa?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Lake Tanganyika", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Lake Victoria", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Lake Malawi", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Lake Turkana", "isCorrect": false}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://i.ytimg.com/vi/ZAqIoDhornk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0s3neePHG-GkYX91eNFWNjjqboA",
+        "name": "Physics",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the unit of electric current?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Volt", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Ampere", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Ohm", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Watt", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Who formulated the theory of relativity?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Isaac Newton", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Albert Einstein", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Galileo Galilei", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Nikola Tesla", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the speed of light in a vacuum?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "300,000 km/s", "isCorrect": true},
+                    {"id": 2, "label": "B", "text": "150,000 km/s", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "500,000 km/s", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "1,000,000 km/s", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the law of universal gravitation?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "F = ma", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "E = mc^2", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "F = G((m1*m2)/r^2)", "isCorrect": true},
+                    {"id": 4, "label": "D", "text": "V = IR", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What is the SI unit of force?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Joule", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Newton", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Watt", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Pascal", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Which of these is a fundamental particle?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Proton", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Quark", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Neutron", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Atom", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 7,
+                "text": "What is the phenomenon of light bending as it passes through a medium?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Reflection", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Refraction", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Diffraction", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Interference", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 8,
+                "text": "What is the energy of motion called?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Potential energy", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Kinetic energy", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Thermal energy", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Chemical energy", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What is the opposite of matter?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Dark matter", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Antimatter", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Energy", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Vacuum", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 10,
+                "text": "What is the measure of disorder in a system?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Enthalpy", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Entropy", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Energy", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Temperature", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 11,
+                "text": "What type of energy is stored in a battery?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Kinetic", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Chemical", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Potential", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Mechanical", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 12,
+                "text": "What is the main cause of the tides?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Wind", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Moon's gravity", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Earth's rotation", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Sun's gravity", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 13,
+                "text": "What is the unit of frequency?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Decibel", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Hertz", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Meter", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Second", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 14,
+                "text": "Which law states that for every action, there is an equal and opposite reaction?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Newton's First Law", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Newton's Third Law", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Law of Conservation of Energy", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Ohm's Law", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 15,
+                "text": "What is the process of a solid changing directly into a gas?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Evaporation", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Sublimation", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Condensation", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Melting", "isCorrect": false}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "https://images.pexels.com/photos/1106468/pexels-photo-1106468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "name": "Literature",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who wrote 'To Kill a Mockingbird'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "F. Scott Fitzgerald", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Harper Lee", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "J.D. Salinger", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Ernest Hemingway", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 2,
+                "text": "In which of Shakespeare's plays does the character Hamlet appear?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Romeo and Juliet", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Hamlet", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Macbeth", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Othello", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Who is the author of '1984'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Aldous Huxley", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "George Orwell", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Ray Bradbury", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Philip K. Dick", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the name of the protagonist in 'The Great Gatsby'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Nick Carraway", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Jay Gatsby", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Tom Buchanan", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Daisy Buchanan", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Who wrote 'Pride and Prejudice'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Charlotte Brontë", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Jane Austen", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Emily Brontë", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Mary Shelley", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Which epic poem tells the story of the Trojan War?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "The Odyssey", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "The Iliad", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "The Aeneid", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Beowulf", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Who is the author of 'The Hobbit'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "C.S. Lewis", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "J.R.R. Tolkien", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "George R.R. Martin", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "J.K. Rowling", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 8,
+                "text": "In 'Moby-Dick', what is the name of the captain of the Pequod?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Starbuck", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Ahab", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Ishmael", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Queequeg", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Who wrote the play 'Death of a Salesman'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Tennessee Williams", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Arthur Miller", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Eugene O'Neill", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Samuel Beckett", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 10,
+                "text": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Hercule Poirot", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Sherlock Holmes", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Miss Marple", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Sam Spade", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 11,
+                "text": "Who wrote 'Frankenstein'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Jane Austen", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Mary Shelley", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Emily Brontë", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "George Eliot", "isCorrect": false}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "name": "Art",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who painted the Mona Lisa?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Vincent van Gogh", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Leonardo da Vinci", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Pablo Picasso", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Claude Monet", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which artist is known for his 'drip' paintings?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Andy Warhol", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Jackson Pollock", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Salvador Dalí", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Wassily Kandinsky", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Who created the sculpture 'David'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Donatello", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Michelangelo", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Raphael", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Bernini", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What art movement is characterized by the use of geometric shapes and bold colors?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Impressionism", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Cubism", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Surrealism", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Baroque", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Who painted 'The Starry Night'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Paul Cézanne", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Vincent van Gogh", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Edgar Degas", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Pierre-Auguste Renoir", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Which artist is famous for his 'Campbell's Soup Cans'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Roy Lichtenstein", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Andy Warhol", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Keith Haring", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Jean-Michel Basquiat", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Who painted 'The Persistence of Memory'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "René Magritte", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Salvador Dalí", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Max Ernst", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Joan Miró", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 8,
+                "text": "What is the name of the Japanese art of paper folding?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Ikebana", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Origami", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Bonsai", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Haiku", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Who painted the ceiling of the Sistine Chapel?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Leonardo da Vinci", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Michelangelo", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Raphael", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Titian", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Which Dutch artist is known for his self-portraits?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Johannes Vermeer", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Rembrandt", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Pieter Bruegel the Elder", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Hieronymus Bosch", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 11,
+                "text": "Who is considered the father of Impressionism?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Edgar Degas", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Claude Monet", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Camille Pissarro", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Édouard Manet", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 12,
+                "text": "Who painted 'The Girl with a Pearl Earring'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Rembrandt", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Johannes Vermeer", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Frans Hals", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Jan Steen", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 13,
+                "text": "Which artist is known for his 'Blue Period' and 'Rose Period'?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Henri Matisse", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Pablo Picasso", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Georges Braque", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Juan Gris", "isCorrect": false}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8fDB8fHww",
+        "name": "Computer Science",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What does 'CPU' stand for?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Central Processing Unit", "isCorrect": true},
+                    {"id": 2, "label": "B", "text": "Computer Personal Unit", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "Central Process Unit", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Computer Processing Unit", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which of these is a programming language?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "HTML", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Python", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "CSS", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "XML", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What does 'RAM' stand for?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Read Access Memory", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Random Access Memory", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Run Access Memory", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Real-time Access Memory", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the main function of an operating system?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "To run applications", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "To manage hardware and software resources", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "To connect to the internet", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "To create documents", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What does 'URL' stand for?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Universal Resource Locator", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Uniform Resource Locator", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Universal Resource Link", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Uniform Resource Link", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Which company developed the Java programming language?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Microsoft", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Sun Microsystems", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Apple", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "IBM", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 7,
+                "text": "What is the binary equivalent of the decimal number 10?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "1010", "isCorrect": true},
+                    {"id": 2, "label": "B", "text": "1100", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "1001", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "1110", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 8,
+                "text": "What does 'HTTP' stand for?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Hypertext Transfer Protocol", "isCorrect": true},
+                    {"id": 2, "label": "B", "text": "Hyperlink Transfer Protocol", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "Hypertext Transmission Protocol", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Hyperlink Transmission Protocol", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What is the name of the first electronic computer?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "UNIVAC", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "ENIAC", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "COLOSSUS", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "EDSAC", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Which data structure uses the LIFO (Last-In, First-Out) principle?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Queue", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Stack", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Linked List", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Tree", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 11,
+                "text": "What does 'SQL' stand for?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Structured Query Language", "isCorrect": true},
+                    {"id": 2, "label": "B", "text": "Standard Query Language", "isCorrect": false},
+                    {"id": 3, "label": "C", "text": "Simple Query Language", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "System Query Language", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 12,
+                "text": "Who is known as the father of the World Wide Web?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Bill Gates", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Tim Berners-Lee", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "Steve Jobs", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "Linus Torvalds", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 13,
+                "text": "What is the purpose of a firewall?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "To speed up internet connection", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "To prevent unauthorized access to a network", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "To store data", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "To cool down the computer", "isCorrect": false}
+                ]
+            },
+            {
+                "id": 14,
+                "text": "What is the most popular programming language in 2024?",
+                "options": [
+                    {"id": 1, "label": "A", "text": "Java", "isCorrect": false},
+                    {"id": 2, "label": "B", "text": "Python", "isCorrect": true},
+                    {"id": 3, "label": "C", "text": "C++", "isCorrect": false},
+                    {"id": 4, "label": "D", "text": "JavaScript", "isCorrect": false}
+                ]
+            }
+        ]
+    }
+]
