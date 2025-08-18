@@ -1,29 +1,70 @@
 # QuizApp
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple quiz application built with Vue 3 and Vite.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Display a list of quizzes from a local data source.
+- Select a quiz to start answering questions.
+- Progress through the quiz questions one by one.
+- View your score and results at the end of the quiz.
 
-## Customize configuration
+## Technologies Used
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Vue Router](https://router.vuejs.org/)
 
 ## Project Setup
 
-```sh
-npm install
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/your-username/QuizApp.git
+    cd QuizApp
+    ```
+
+2.  **Install dependencies:**
+    ```sh
+    npm install
+    ```
+
+3.  **Run the development server:**
+    ```sh
+    npm run dev
+    ```
+    The application will be available at `http://localhost:5173`.
+
+4.  **Build for production:**
+    ```sh
+    npm run build
+    ```
+    This will create a `dist` directory with the production-ready files.
+
+## Project Structure
+
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Card.vue
+│   │   ├── Question.vue
+│   │   ├── QuizHeader.vue
+│   │   └── Result.vue
+│   ├── data/
+│   │   └── quizes.json
+│   ├── router/
+│   │   └── index.js
+│   ├── views/
+│   │   ├── QuizesView.vue
+│   │   └── QuizView.vue
+│   ├── App.vue
+│   └── main.js
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
 ```
