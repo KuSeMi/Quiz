@@ -2,6 +2,10 @@
 
 A simple quiz application built with Vue 3 and Vite.
 
+## Live Demo
+
+You can try out the live application [here](https://kusemi.github.io/Quiz/).
+
 ## Features
 
 - Display a list of quizzes from a local data source.
@@ -11,16 +15,17 @@ A simple quiz application built with Vue 3 and Vite.
 
 ## Technologies Used
 
-- [Vue 3](https://vuejs.org/)
-- [Vite](https://vitejs.dev/)
-- [Vue Router](https://router.vuejs.org/)
+- [Vue 3](https://vuejs.org/) (^3.5.18)
+- [Vite](https://vitejs.dev/) (^7.0.6)
+- [Vue Router](https://router.vuejs.org/) (^4.5.1)
+- [GSAP](https://gsap.com/) (^3.13.0) for animations.
 
 ## Project Setup
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/QuizApp.git
-    cd QuizApp
+    git clone https://github.com/KuSeMi/Quiz.git
+    cd Quiz
     ```
 
 2.  **Install dependencies:**
